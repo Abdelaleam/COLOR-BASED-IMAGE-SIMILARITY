@@ -1,0 +1,35 @@
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.exe.config
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.exe
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.pdb
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.AssemblyReference.cache
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.SuggestedBindingRedirects.cache
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.MainForm.resources
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.Properties.Resources.resources
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.GenerateResource.cache
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.CoreCompileInputs.cache
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.exe
+D:\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.pdb
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.exe.config
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.exe
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.pdb
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.AssemblyReference.cache
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.SuggestedBindingRedirects.cache
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.MainForm.resources
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.Properties.Resources.resources
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.GenerateResource.cache
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.CoreCompileInputs.cache
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.exe
+D:\Warm-up Competition\RELEASE\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.pdb
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.exe.config
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.exe
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\ImageSimilarity.pdb
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.AssemblyReference.cache
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.MainForm.resources
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.Properties.Resources.resources
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.GenerateResource.cache
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.csproj.CoreCompileInputs.cache
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.exe
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSimilarity.pdb
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\System.Numerics.Vectors.dll
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\bin\Debug\System.Numerics.Vectors.xml
+D:\Abdelaleam\Warm-up\1 Startup Code\[TEMPLATE] ImageSimilarity\ImageSimilarity\obj\Debug\ImageSim.9C5F9FEA.Up2Date
